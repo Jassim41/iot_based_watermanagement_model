@@ -8,7 +8,7 @@
 
 #define WIFI_SSID "OPPO A54"
 #define WIFI_PASSWORD "11111111"
-#define API_KEY "AIzaSyAQ2YT_FFlIWglXtqs2vbun5CQ0PBces24"
+#define API_KEY "Your API Key"
 #define DATABASE_URL "https://sample-b8bc5-default-rtdb.firebaseio.com/"
 
 FirebaseData fbdo;
